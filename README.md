@@ -1,0 +1,5 @@
+UTS PEMROGRAMAN MOBILE
+FADHLULLAH HANIF NUR CATURANGGA
+241080200112
+
+Replace main.kt, project empty activity 
